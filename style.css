@@ -1,0 +1,78 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:#270E2D;
+    overflow:auto;
+    color: white;
+}
+
+.nav-link {
+    margin-right: 1em ;
+}
+/* end to chage the nav bar */
+.navbar-nav {
+    justify-content: flex-end;
+} 
+
+.navbar{
+    color: white;
+}
+.navbar-collapse-navbar-brand{
+    justify-content: flex-start;
+}
+
+.space1{
+    padding-top: 5rem;
+}
+
+.space2{
+    padding-top: 20rem;
+}
+
+.space3{
+    padding-top: 4rem;
+}
+
+.last{
+    padding: 2rem;
+}
+
+.top{
+    color: white;
+}
+
+.last{
+    color: white;
+    z-index: 3;
+}
+
+card{
+    padding-left: 1rem;
+}
+
+.myBtn{
+    background-color: black;
+    position: fixed;
+    right: 32px;
+    bottom: 16px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+     color: white;
+}
+    
+
+ /* .wave1{
+    z-index: 1;
+    
+    margin-bottom: -80%;
+}
+
+.wave2{
+    z-index: -1;
+   margin-bottom: 0%;
+}   */
